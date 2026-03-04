@@ -452,7 +452,7 @@ window.SubscriptionsManager = (function () {
             <button id="arxiv-admin-quick-run-10d-btn" class="chat-quick-run-item" type="button">立即搜寻十天内论文</button>
             <button id="arxiv-admin-quick-run-30d-btn" class="chat-quick-run-item" type="button">立即搜寻三十天内论文</button>
             <div class="chat-quick-run-divider" aria-hidden="true"></div>
-            <div class="chat-quick-run-title">会议论文（先保留）</div>
+            <div class="chat-quick-run-title">会议论文（暂未接入）</div>
             <div class="chat-quick-run-row">
               <label for="arxiv-admin-quick-run-year-select">年份</label>
               <select id="arxiv-admin-quick-run-year-select" disabled>
